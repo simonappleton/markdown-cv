@@ -25,7 +25,7 @@ My work has previously been used in scientific research, governmental press rele
 *Apr 2022 - Present*
  - Analytics lead on a project to use linear optimisation in Python to build a tool for scheduling maintenance works for a large national company. Colaborated with multiple other teams ensure smooth integration and owned the quality assurance of the optimiser and ancillary apps.
  - Prototyped an R Shiny app to explore and visualize the results of an optimisation process that allowed users to define branching paths of investment priorities into the long term future. Creating novel user interface elements that simplify an intricate concept.
- - Contributed to a tool that used Facebook's Prophet package to forecast stock levels from multiple warehouse sites statistically testing the output and comunicating how the tool worked to key stateholders.
+ - Contributed to a tool that used Facebook's Prophet package to forecast stock levels from multiple warehouse sites, statistically testing the output and comunicating how the tool worked to key stateholders.
  - A typical technology stack for a project will use Azure (blob storage and container registries), Kubernetes, Github for source control and would be built in R / Shiny or Python. 
  - Line manager and coaching duties for 4 junior members of staff within the team.
 
