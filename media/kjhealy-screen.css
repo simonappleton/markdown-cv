@@ -153,7 +153,7 @@ h3 {
 
 h3.skills {
 	font-size: 1em;
-	line-height: 1em; 
+	line-height: 1.2em; 
 	position: relative;
 	text-align: right;
 	width: 30%;
@@ -200,7 +200,7 @@ strong {
 	flex-wrap: wrap;
 	position: relative;
 	left: 33%;
-	margin-bottom: 0.7em;
+	margin-bottom: 0.2em;
 	margin-right: 0;
 	width: 65%;
 }
