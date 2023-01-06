@@ -71,19 +71,6 @@ Management information and internal reporting using MS SQL Server, Excel, Access
 
 Created and automated the monthly reporting procedures for this Scottish Government scheme using MS SQL Server, Excel and VBA
 
-## Education
-
-
-### MSc Statistics with Medical Applications
-**University of Sheffield, Sept 2018**
- - including a dissertation on competing risks and multi state models.
-
-### Grad cert Statistics
-**University of Sheffield, July 2016**
-
-### BSc Physics
-**University of Warwick, June 2007**
-
 ## Skills
 
 <h3 class="skills" style="margin-top:1em;">R</h3> 
@@ -127,6 +114,21 @@ Created and automated the monthly reporting procedures for this Scottish Governm
 <div class="skill">ArcGIS </div>
 <div class="skill">QGIS  </div>
 </div>
+
+
+
+## Education
+
+
+### MSc Statistics with Medical Applications
+**University of Sheffield, Sept 2018**
+ - including a dissertation on competing risks and multi state models.
+
+### Grad cert Statistics
+**University of Sheffield, July 2016**
+
+### BSc Physics
+**University of Warwick, June 2007**
 
 
 <!-- ### Footer
