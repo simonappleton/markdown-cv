@@ -69,7 +69,7 @@ Management information and internal reporting using MS SQL Server, Excel, Access
 
 *May 2009 – Apr 2012*
 
-Created and automated the monthly reporting procedures for this Scottish Government scheme using MS SQL Server, Excel and VBA
+Created and automated the monthly reporting procedures for a Scottish Government fuel poverty scheme using MS SQL Server, Excel and VBA
 
 ## Skills
 
