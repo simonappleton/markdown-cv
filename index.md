@@ -32,7 +32,7 @@ My work has previously been used in scientific research, governmental press rele
 ### Johnson Matthey - Battery Materials
 **Senior Data Scientist**
 
-*Sep 2021 - April 2022*
+*Sep 2021 - Apr 2022*
  - Worked with several teams within the battery materials business section to understand workflows and data needs, presented findings to senior managements and gave recommendations to improve the use of data across the whole of the business section. 
  - Built a prototype of a data exporer app in Python Dash for a lab test machine which used propriatory data formats. 
  - Acted as an internal statistical consultant.
