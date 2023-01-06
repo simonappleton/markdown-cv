@@ -6,7 +6,7 @@ title: Simon Appleton CV
 Data Scientist
 
 <div id="webaddress">
-<a href="sim.appleton@gmail.com">sim.appleton@gmail.com</a>
+<a href="mailto:sim.appleton@gmail.com">sim.appleton@gmail.com</a>
  | 07793 750 361
 </div>
 
