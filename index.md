@@ -23,9 +23,9 @@ My work has previously been used in scientific research, governmental press rele
 **Senior Data Scientist**
 
 *Apr 2022 - Present*
- - Analytics lead on a project to use linear optimisation in Python to build a tool for scheduling maintenance works for a large national company. Colaborated with multiple other teams ensure smooth integration and owned the quality assurance of the optimiser and ancillary apps.
+ - Analytics lead on a project to use linear optimisation in Python to build a tool for scheduling maintenance works for a large national infrastructure company. Collaborated with multiple other teams to ensure smooth integration and owned the quality assurance of the optimiser and ancillary apps.
  - Prototyped an R Shiny app to explore and visualize the results of an optimisation process that allowed users to define branching paths of investment priorities into the long term future. Creating novel user interface elements that simplify an intricate concept.
- - Contributed to a tool that used Facebook's Prophet package to forecast stock levels from multiple warehouse sites, statistically testing the output and comunicating how the tool worked to key stateholders.
+ - Contributed to a tool that used Facebook's Prophet package to forecast stock levels from multiple warehouse sites, statistically testing the output and communicating how the tool worked to key stateholders.
  - A typical technology stack for a project will use Azure (blob storage and container registries), Kubernetes, Github for source control and would be built in R / Shiny or Python. 
  - Line manager and coaching duties for 4 junior members of staff within the team.
 
@@ -43,7 +43,7 @@ My work has previously been used in scientific research, governmental press rele
 *Apr 2020 - Sep 2021*
  - Developed and automated monthly reports for medical device manufacturers using a mix of technologies (R, MS SQL Server, Excel, Word)
  - Bespoke analyses and reports completed mainly in R and RMarkdown with occasional production of D3.js and ArcGIS visualisations.
- - Drove improvements in the tools and workflow of the health department's data science team bringing in new methodologies and comissioning an analysis server.
+ - Drove improvements in the tools and workflow of the health department's data science team, bringing in new methodologies and commissioning an analysis server.
  - Worked with academics and clinical experts to test the performance of an AI / computer vision diagnosis tool.
  - Worked with the internal development team using Agile methodology to deliver web based interactive data analysis in PowerBI.
 
