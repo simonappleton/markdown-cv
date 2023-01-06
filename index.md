@@ -95,7 +95,7 @@ Created and automated the monthly reporting procedures for this Scottish Governm
 <div class="skill">Plotly</div>
 </div>
 
-<h3 class="skills">Python 
+<h3 class="skills">Python </h3>
 <div class="container">
 <div class="skill">Jupyter </div>
 <div class="skill">Pandas </div>
