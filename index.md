@@ -87,7 +87,7 @@ Created and automated the monthly reporting procedures for this Scottish Governm
 
 ## Skills
 
-### R 
+<h3 class="skills">R</h3> 
 <div class="container">
 <div class="skill">RMarkdown</div>
 <div class="skill">Shiny </div>
@@ -95,7 +95,7 @@ Created and automated the monthly reporting procedures for this Scottish Governm
 <div class="skill">Plotly</div>
 </div>
 
-### Python 
+<h3 class="skills">Python 
 <div class="container">
 <div class="skill">Jupyter </div>
 <div class="skill">Pandas </div>
@@ -106,7 +106,7 @@ Created and automated the monthly reporting procedures for this Scottish Governm
 <div class="skill">Dash</div>
 </div>
 
-### SQL
+<h3 class="skills">SQL</h3>
 <div class="container">
 <div class="skill">MSSQL Server</div> 
 <div class="skill">MySQL </div>
@@ -115,7 +115,7 @@ Created and automated the monthly reporting procedures for this Scottish Governm
 <div class="skill">SSIS</div>
 </div>
 
-### Other
+<h3 class="skills">Other</h3>
 <div class="container">
 <div class="skill">Excel </div>
 <div class="skill">Access </div>
