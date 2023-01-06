@@ -187,7 +187,24 @@ strong {
 	display: none;
 }
 
+.container {
+	display: flex;
+	flex-direction: row;
+	flex-wrap: wrap;
+	position: relative;
+	left: 33%;
+	margin-bottom: 0.2em;
+	margin-right: 0;
+	width: 65%;
+}
 
+.skill {
+	color:#fff;
+	border-radius:5px;
+	background-color:#a00;
+	padding: 3px 5px 3px 5px;
+	margin: 2px;
+}
 
 /*
 @media only screen and (max-width: 480px) {
