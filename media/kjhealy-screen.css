@@ -199,7 +199,10 @@ strong {
 
 .skill {
 	color:#ffffff;
+	border-radius:5px;
 	background-color:#a00;
+	padding: 3px;
+	margin: 2px;
 }
 
 /*
