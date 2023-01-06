@@ -13,7 +13,7 @@ Data Scientist
 
 ## Profile
 
-With 12+ years of data analysis experience I have added a solid understanding of statistical methods and variety of advanced analytical tools over the last 5 years. 
+With 12+ years of data analysis experience I have more recently added a solid understanding of statistical methods and a variety of advanced analytical tools. 
 I have a broad range of experience and I'm looking for a new challenge to combine my passions for sustainability and data science in an environment where I get to model the real world.
 My work has previously been used in scientific research, governmental press releases and formed the basis for significant commercial decisions. 
 
