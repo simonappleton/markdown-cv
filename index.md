@@ -28,6 +28,7 @@ My work has previously been used in scientific research, governmental press rele
  - Contributed to an extension of a stock management application that forecasted stock levels and issue rates for warehouses using Facebook's Prophet package in order to automatically set re-order points and safety stock levels saving admin time and warehouse space across the organization. The main responsibilities on the project were to develop the shiny app to be integrated into a larger application, statistically test the output to ensure accuracy and consistency and to demo the product to stakeholders.
  - Worked on multiple R shiny apps whose purpose was to display and manage various sources of multi-dimensional data. These apps included representations of asset data, investment schemes, GIS data and branching future scenario pathways. 
  - A typical technology stack for a project will use Azure (blob storage and container registries), Kubernetes, Github for source control and would be built in R / Shiny or Python. 
+ - Line manager and take on coaching duties for 4 junior members of staff within the team.
 
 ### Johnson Matthey - Battery Materials
 **Senior Data Scientist**
@@ -87,7 +88,7 @@ Created and automated the monthly reporting procedures for this Scottish Governm
 
 ## Skills
 
-<h3 class="skills">R</h3> 
+<h3 class="skills" style="margin-top:1em;">R</h3> 
 <div class="container">
 <div class="skill">RMarkdown</div>
 <div class="skill">Shiny </div>
@@ -117,6 +118,7 @@ Created and automated the monthly reporting procedures for this Scottish Governm
 
 <h3 class="skills">Other</h3>
 <div class="container">
+<div class="skill">Git </div>
 <div class="skill">Excel </div>
 <div class="skill">Access </div>
 <div class="skill">VBA </div>
