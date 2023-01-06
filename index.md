@@ -23,12 +23,11 @@ My work has previously been used in scientific research, governmental press rele
 **Senior Data Scientist**
 
 *Apr 2022 - Present*
- - Analytics lead on a project to create an interactive optimiser for scheduling maintenance works. This involved helping to build the optimiser in Python. I was responsible for collaborating with other teams building different parts of the tool to ensure smooth integration and owning the quality assurance of the optimiser and ancillary apps.
- - Rapidly deployed an R Shiny app to explore and visualize the results of an optimisation process that allowed the customer to define branching paths of investment priorities stretching into the long term future. This involved creating novel user interface elements that simplify an intricate concept of adaptive future pathways to get quick and clear answers to customer questions.
- - Contributed to an extension of a stock management application that forecasted stock levels and issue rates for warehouses using Facebook's Prophet package in order to automatically set re-order points and safety stock levels saving admin time and warehouse space across the organization. The main responsibilities on the project were to develop the shiny app to be integrated into a larger application, statistically test the output to ensure accuracy and consistency and to demo the product to stakeholders.
- - Worked on multiple R shiny apps whose purpose was to display and manage various sources of multi-dimensional data. These apps included representations of asset data, investment schemes, GIS data and branching future scenario pathways. 
+ - Analytics lead on a project to use linear optimisation in Python to build a tool for scheduling maintenance works for a large national company. Colaborated with multiple other teams ensure smooth integration and owned the quality assurance of the optimiser and ancillary apps.
+ - Prototyped an R Shiny app to explore and visualize the results of an optimisation process that allowed users to define branching paths of investment priorities into the long term future. Creating novel user interface elements that simplify an intricate concept.
+ - Contributed to a tool that used Facebook's Prophet package to forecast stock levels from multiple warehouse sites statistically testing the output and comunicating how the tool worked to key stateholders.
  - A typical technology stack for a project will use Azure (blob storage and container registries), Kubernetes, Github for source control and would be built in R / Shiny or Python. 
- - Line manager and take on coaching duties for 4 junior members of staff within the team.
+ - Line manager and coaching duties for 4 junior members of staff within the team.
 
 ### Johnson Matthey - Battery Materials
 **Senior Data Scientist**
@@ -47,16 +46,15 @@ My work has previously been used in scientific research, governmental press rele
  - Drove improvements in the tools and workflow of the health department's data science team bringing in new methodologies and comissioning an analysis server.
  - Worked with academics and clinical experts to test the performance of an AI / computer vision diagnosis tool.
  - Worked with the internal development team using Agile methodology to deliver web based interactive data analysis in PowerBI.
- - Acted as an internal statistical consultant 
 
 ### University of York
 **Data Analyst, Epidemiology and Cancer Statistics Group**
 
 *Nov 2013 - Apr 2020*
 
- - Maintained a continually updating complex medical dataset using MySQL and MS SQL Server to be used in health sciences research
- - Produced statistical analysis used in published papers using R and Stata
- - Built interactive data visualisations for a project website using Javascript, D3.js, ArcGIS and HTML/CSS
+ - Maintained a continually updating complex medical dataset using MySQL and MS SQL Server to be used in health sciences research.
+ - Produced statistical analysis used in peer reviewed papers using R and Stata
+ - Built interactive data visualisations for a project website using Javascript, D3.js, GIS and HTML/CSS
  - Used Python to create an optical character recognition widget to search through 1000's of scanned paper medical notes finding just the information needed.
 
 ### Telefónica UK
