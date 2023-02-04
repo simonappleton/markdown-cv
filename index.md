@@ -14,7 +14,7 @@ Data Scientist
 ## Profile
 
 With 12+ years of data analysis experience I have more recently added a solid understanding of statistical methods and a variety of advanced analytical tools. 
-I have a broad range of experience and I'm looking for a new challenge to combine my passions for sustainability and data science in an environment where I get to model the real world.
+I have a broad range of experience and I hope to be always learning and improving. I'm currently looking for a new challenge to combine my passions for sustainability and data science in an environment where I get to have an impact improving people's lives.
 My work has previously been used in scientific research, governmental press releases and formed the basis for significant commercial decisions. 
 
 ## Experience
@@ -23,11 +23,11 @@ My work has previously been used in scientific research, governmental press rele
 **Senior Data Scientist**
 
 *Apr 2022 - Present*
- - Analytics lead on a project to use linear optimisation in Python to build a tool for scheduling maintenance works for a large national infrastructure company. Collaborated with multiple other teams to ensure smooth integration and owned the quality assurance of the optimiser and ancillary apps.
+ - Analytics lead and developer for a tool optimising the scheduling of maintenance works for a large national infrastructure company in Python. I had ownership of delivering the optimiser to specification along with 3 ancillary data management R Shiny apps. This large project required collaboration with multiple teams to ensure smooth integration.
  - Prototyped an R Shiny app to explore and visualize the results of an optimisation process that allowed users to define branching paths of investment priorities into the long term future. Creating novel user interface elements that simplify an intricate concept.
- - Contributed to a tool that used Facebook's Prophet package to forecast stock levels from multiple warehouse sites, statistically testing the output and communicating how the tool worked to key stateholders.
+ - Maintained and added features to a tool that used Facebook's Prophet package to forecast stock levels from multiple warehouse sites, Work included improving the code structure, statistically testing the output and communicating how the tool worked to key stateholders.
  - A typical technology stack for a project will use Azure (blob storage and container registries), Kubernetes, Github for source control and would be built in R / Shiny or Python. 
- - Line manager and coaching duties for 4 junior members of staff within the team.
+ - Line manager and coaching responsibility for 4 junior members of staff within the team.
 
 ### Johnson Matthey - Battery Materials
 **Senior Data Scientist**
@@ -41,10 +41,10 @@ My work has previously been used in scientific research, governmental press rele
 **Data Scientist**
 
 *Apr 2020 - Sep 2021*
+ - Gathered requirements from academics and clinical experts to design and build a testing regime to evaluate the performance of an AI / computer vision diagnosis tool for diabetic eye screening.
  - Developed and automated monthly reports for medical device manufacturers using a mix of technologies (R, MS SQL Server, Excel, Word)
- - Bespoke analyses and reports completed mainly in R and RMarkdown with occasional production of D3.js and ArcGIS visualisations.
+ - Undertook bespoke analyses and reports completed mainly in R and RMarkdown with occasional production of D3.js and ArcGIS visualisations.
  - Drove improvements in the tools and workflow of the health department's data science team, bringing in new methodologies and commissioning an analysis server.
- - Worked with academics and clinical experts to test the performance of an AI / computer vision diagnosis tool.
  - Worked with the internal development team using Agile methodology to deliver web based interactive data analysis in PowerBI.
 
 ### University of York
@@ -62,7 +62,8 @@ My work has previously been used in scientific research, governmental press rele
 
 *May 2012 – Nov 2013*
 
-Management information and internal reporting using MS SQL Server, Excel, Access, VBA and Business Objects.
+ - Management information and internal reporting using MS SQL Server, Excel, Access, VBA and Business Objects.
+ - Involved the management and manipulation of large complex datasets from multiple sources.
 
 ### Energy Saving Trust
 **Reporting Officer, Energy Assistance Package**
