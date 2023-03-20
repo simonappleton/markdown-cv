@@ -27,7 +27,7 @@ My work has previously been used in scientific research, governmental press rele
  - Prototyped an R Shiny app to explore and visualize the results of an optimisation process that allowed users to define branching paths of investment priorities into the long term future. Creating novel user interface elements that simplify an intricate concept.
  - Maintained and added features to a tool that used Facebook's Prophet package to forecast stock levels from multiple warehouse sites, Work included improving the code structure, statistically testing the output and communicating how the tool worked to key stakeholders.
  - Added a feature to an internal optimisation package that allowed it to use Gurobi's feasibility relaxation feature and enabled users to easily specify penalties to do this.
- - A typical technology stack for a project will use Azure (blob storage and container registries), Kubernetes, Github for source control and would be built in R / Shiny or Python. Optimisations would be done with LP Solve,  or Gurobi. 
+ - A typical technology stack for a project will use Azure (blob storage and container registries), Kubernetes, Github for source control and would be built in R / Shiny or Python. Optimisations would be done with LP Solve,  OR Tools or Gurobi. 
  - Line manager and coaching responsibility for 4 junior members of staff within the team.
 
 ### Johnson Matthey - Battery Materials
