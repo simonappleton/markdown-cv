@@ -23,10 +23,11 @@ My work has previously been used in scientific research, governmental press rele
 **Senior Data Scientist**
 
 *Apr 2022 - Present*
- - Analytics lead and developer for a tool optimising the scheduling of maintenance works for a large national infrastructure company in Python. I had ownership of delivering the optimiser to specification along with 3 ancillary data management R Shiny apps. This large project required collaboration with multiple teams to ensure smooth integration.
+ - Analytics lead and developer for an MILP optimiser that scheduled work packages and assigned crews for a large national infrastructure company. Leading a team of 3 people, I had ownership of delivering the optimiser to specification along with 3 ancillary data management R Shiny apps. This large project required collaboration with multiple teams to ensure smooth integration.
  - Prototyped an R Shiny app to explore and visualize the results of an optimisation process that allowed users to define branching paths of investment priorities into the long term future. Creating novel user interface elements that simplify an intricate concept.
- - Maintained and added features to a tool that used Facebook's Prophet package to forecast stock levels from multiple warehouse sites, Work included improving the code structure, statistically testing the output and communicating how the tool worked to key stateholders.
- - A typical technology stack for a project will use Azure (blob storage and container registries), Kubernetes, Github for source control and would be built in R / Shiny or Python. 
+ - Maintained and added features to a tool that used Facebook's Prophet package to forecast stock levels from multiple warehouse sites, Work included improving the code structure, statistically testing the output and communicating how the tool worked to key stakeholders.
+ - Added a feature to an internal optimisation package that allowed it to use Gurobi's feasibility relaxation feature and enabled users to easily specify penalties to do this.
+ - A typical technology stack for a project will use Azure (blob storage and container registries), Kubernetes, Github for source control and would be built in R / Shiny or Python. Optimisations would be done with LP Solve,  or Gurobi. 
  - Line manager and coaching responsibility for 4 junior members of staff within the team.
 
 ### Johnson Matthey - Battery Materials
