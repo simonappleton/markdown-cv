@@ -40,7 +40,7 @@ My work has previously been used in scientific research, governmental press rele
  - Built a prototype of a data exporer app in **Python Dash** for a lab test machine which used propriatory data formats. 
  - Acted as an internal **statistical consultant**.
 
-### Northgate Public Services / NEC Software Solutions
+### NEC Software Solutions
 **Data Scientist**
 
 *Apr 2020 - Sep 2021*
