@@ -23,55 +23,57 @@ My work has previously been used in scientific research, governmental press rele
 **Senior Data Scientist**
 
 *Apr 2022 - Present*
- - Analytics lead and developer for an MILP optimiser that scheduled work packages and assigned crews for a large national infrastructure company. Leading a team of 3 people, I had ownership of delivering the optimiser to specification along with 3 ancillary data management R Shiny apps. This large project required collaboration with multiple teams to ensure smooth integration.
- - Prototyped an R Shiny app to explore and visualize the results of an optimisation process that allowed users to define branching paths of investment priorities into the long term future. Creating novel user interface elements that simplify an intricate concept.
- - Maintained and added features to a tool that used Facebook's Prophet package to forecast stock levels from multiple warehouse sites, Work included improving the code structure, statistically testing the output and communicating how the tool worked to key stakeholders.
- - Added a feature to an internal optimisation package that allowed it to use Gurobi's feasibility relaxation feature and enabled users to easily specify penalties to do this.
- - A typical technology stack for a project will use Azure (blob storage and container registries), Kubernetes, Github for source control and would be built in R / Shiny or Python. Optimisations would be done with LP Solve,  OR Tools or Gurobi. 
- - Line manager and coaching responsibility for 4 junior members of staff within the team.
+ - Lead developer on an **MILP optimisation** live tool for scheduling maintenance works for a national infrastructure company. Built as an **Azure** function in **Python** using **Google OR-Tools**.
+ - Lead developer on 2 data manipulation apps alongside the optimisation tool built using **R Shiny**. They include manipulation of **GIS data** components using **Leaflet** visualisation package and the **R sf** (simple features) package. The apps use data from a **PostgreSQL** DB.
+ - Working as part of a **cross functional** team I also **supervise** 2 developers on the project.
+ - Prototyped an **R Shiny** app to explore and visualize the results of an optimisation process that allowed users to define branching paths of investment priorities into the long term future. Creating novel user interface elements that **simplify an intricate concept.**
+ - Maintained and added features to a tool that used **Facebook's Prophet package** to **forecast** stock levels from multiple warehouse sites, statistically testing the output and communicating how the tool worked to key stakeholders.
+ - Contributed to an internal optimisation package allowing it to use **Gurobi**'s feasibility relaxation feature and enabled users to easily specify penalties to do this.
+ - All above pieces of work were source controlled in **GitHub**.
+ - Line manager and **coaching** responsibility for 3 junior members of staff within the team.
 
 ### Johnson Matthey - Battery Materials
 **Senior Data Scientist**
 
 *Sep 2021 - Apr 2022*
- - Worked with several teams within the battery materials business section to understand workflows and data needs, presented findings to senior managements and gave recommendations to improve the use of data across the whole of the business section. 
- - Built a prototype of a data exporer app in Python Dash for a lab test machine which used propriatory data formats. 
- - Acted as an internal statistical consultant.
+ - Worked with several teams within the battery materials business section to **understand workflows and data needs**, presented findings to senior managements and gave recommendations to **improve the use of data** across the whole of the business section. 
+ - Built a prototype of a data exporer app in **Python Dash** for a lab test machine which used propriatory data formats. 
+ - Acted as an internal **statistical consultant**.
 
 ### Northgate Public Services / NEC Software Solutions
 **Data Scientist**
 
 *Apr 2020 - Sep 2021*
- - Gathered requirements from academics and clinical experts to design and build a testing regime to evaluate the performance of an AI / computer vision diagnosis tool for diabetic eye screening.
- - Developed and automated monthly reports for medical device manufacturers using a mix of technologies (R, MS SQL Server, Excel, Word)
- - Undertook bespoke analyses and reports completed mainly in R and RMarkdown with occasional production of D3.js and ArcGIS visualisations.
- - Drove improvements in the tools and workflow of the health department's data science team, bringing in new methodologies and commissioning an analysis server.
- - Worked with the internal development team using Agile methodology to deliver web based interactive data analysis in PowerBI.
+ - **Gathered requirements** from academics and clinical experts to design and build a testing regime to **evaluate the performance** of an AI / computer vision diagnosis tool for diabetic eye screening.
+ - Developed and automated monthly reports for medical device manufacturers using a mix of technologies (**R, MS SQL Server, Excel, Word**)
+ - Undertook bespoke analyses and reports completed mainly in **R** and **RMarkdown** with occasional production of **D3.js** and **ArcGIS** visualisations.
+ - Drove improvements in the tools and workflow of the health department's data science team, bringing in **new methodologies** and commissioning an analysis server.
+ - Worked with the internal development team using **Agile** methodology to deliver web based interactive data analysis in **PowerBI**.
 
 ### University of York
 **Data Analyst, Epidemiology and Cancer Statistics Group**
 
 *Nov 2013 - Apr 2020*
 
- - Maintained a continually updating complex medical dataset using MySQL and MS SQL Server to be used in health sciences research.
- - Produced statistical analysis used in peer reviewed papers using R and Stata
- - Built interactive data visualisations for a project website using Javascript, D3.js, GIS and HTML/CSS
- - Used Python to create an optical character recognition widget to search through 1000's of scanned paper medical notes finding just the information needed.
+ - Maintained a continually updating complex medical dataset using **MySQL** and **MS SQL Server** to be used in health sciences research.
+ - Produced **statistical analysis** used in peer reviewed papers using **R** and **Stata**
+ - Built interactive data visualisations for a project website using **Javascript, D3.js, GIS and HTML/CSS**
+ - Used **Python** to create an **optical character recognition** widget to search through 1000's of scanned paper medical notes finding just the information needed.
 
 ### Telefónica UK
 **MIS Analyst, Credit and Risk** 
 
 *May 2012 – Nov 2013*
 
- - Management information and internal reporting using MS SQL Server, Excel, Access, VBA and Business Objects.
- - Involved the management and manipulation of large complex datasets from multiple sources.
+ - Management information and internal reporting using **MS SQL Server, Excel, Access, VBA and Business Objects**.
+ - Involved the management and manipulation of **large complex datasets** from multiple sources.
 
 ### Energy Saving Trust
 **Reporting Officer, Energy Assistance Package**
 
 *May 2009 – Apr 2012*
 
-Created and automated the monthly reporting procedures for a Scottish Government fuel poverty scheme using MS SQL Server, Excel and VBA
+Created and **automated** the monthly reporting procedures for a Scottish Government fuel poverty scheme using **MS SQL Server, Excel and VBA**
 
 ## Skills
 
@@ -81,6 +83,7 @@ Created and automated the monthly reporting procedures for a Scottish Government
 <div class="skill">Shiny </div>
 <div class="skill">Tidyverse</div>
 <div class="skill">Plotly</div>
+<div class="skill">GIS / Leaflet / sf </div>
 </div>
 
 <h3 class="skills">Python </h3>
@@ -98,6 +101,7 @@ Created and automated the monthly reporting procedures for a Scottish Government
 <div class="container">
 <div class="skill">MSSQL Server</div> 
 <div class="skill">MySQL </div>
+<div class="skill">PostgreSQL </div>
 <div class="skill">SQLite </div>
 <div class="skill">SSMS</div>
 <div class="skill">SSIS</div>
@@ -105,10 +109,8 @@ Created and automated the monthly reporting procedures for a Scottish Government
 
 <h3 class="skills">Other</h3>
 <div class="container">
-<div class="skill">Git </div>
-<div class="skill">Excel </div>
-<div class="skill">Access </div>
-<div class="skill">VBA </div>
+<div class="skill">Git / GitHub </div>
+<div class="skill">Excel / Access / VBA </div>
 <div class="skill">PowerBI </div>
 <div class="skill">Javascript </div>
 <div class="skill">D3.js </div>
