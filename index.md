@@ -14,54 +14,8 @@ Data Scientist
 ## Profile
 
 With 12+ years of data analysis experience I have more recently added a solid understanding of statistical methods and a variety of advanced analytical tools. 
-I have a broad range of experience and I’m looking for a new challenge to combine my passions for sustainability and data science in an environment where I get to model the real world. 
+I have a broad range of experience and I’m looking for a new challenge in a dynamic and demanding role that allows me to push my boundaries to excel in new areas. 
 My work has previously been used in scientific research, governmental press releases and formed the basis for significant commercial decisions.
-
-## Skills
-
-<h3 class="skills" style="margin-top:1em;">R</h3> 
-<div class="container">
-<div class="skill">RMarkdown</div>
-<div class="skill">Shiny </div>
-<div class="skill">Tidyverse</div>
-<div class="skill">Plotly</div>
-<div class="skill">GIS / Leaflet / sf </div>
-</div>
-
-<h3 class="skills">Python </h3>
-<div class="container">
-<div class="skill">Jupyter </div>
-<div class="skill">Pandas </div>
-<div class="skill">Numpy</div>
-<div class="skill">Matplotlib </div>
-<div class="skill">scikit-learn</div>
-<div class="skill">Plotly</div>
-<div class="skill">Dash</div>
-</div>
-
-<h3 class="skills">SQL</h3>
-<div class="container">
-<div class="skill">MSSQL Server</div> 
-<div class="skill">MySQL </div>
-<div class="skill">PostgreSQL </div>
-<div class="skill">SQLite </div>
-<div class="skill">SSMS</div>
-<div class="skill">SSIS</div>
-</div>
-
-<h3 class="skills">Other</h3>
-<div class="container">
-<div class="skill">Git / GitHub </div>
-<div class="skill">Excel / Access / VBA </div>
-<div class="skill">PowerBI </div>
-<div class="skill">Javascript </div>
-<div class="skill">D3.js </div>
-<div class="skill">CSS</div>
-<div class="skill">ArcGIS </div>
-<div class="skill">QGIS  </div>
-</div>
-
-
 
 ## Experience
 
@@ -120,6 +74,50 @@ My work has previously been used in scientific research, governmental press rele
 *May 2009 – Apr 2012*
 
 Created and **automated** the monthly reporting procedures for a Scottish Government fuel poverty scheme using **MS SQL Server, Excel and VBA**
+
+## Skills
+
+<h3 class="skills" style="margin-top:1em;">R</h3> 
+<div class="container">
+<div class="skill">RMarkdown</div>
+<div class="skill">Shiny </div>
+<div class="skill">Tidyverse</div>
+<div class="skill">Plotly</div>
+<div class="skill">GIS / Leaflet / sf </div>
+</div>
+
+<h3 class="skills">Python </h3>
+<div class="container">
+<div class="skill">Jupyter </div>
+<div class="skill">Pandas </div>
+<div class="skill">Numpy</div>
+<div class="skill">Matplotlib </div>
+<div class="skill">scikit-learn</div>
+<div class="skill">Plotly</div>
+<div class="skill">Dash</div>
+</div>
+
+<h3 class="skills">SQL</h3>
+<div class="container">
+<div class="skill">MSSQL Server</div> 
+<div class="skill">MySQL </div>
+<div class="skill">PostgreSQL </div>
+<div class="skill">SQLite </div>
+<div class="skill">SSMS</div>
+<div class="skill">SSIS</div>
+</div>
+
+<h3 class="skills">Other</h3>
+<div class="container">
+<div class="skill">Git / GitHub </div>
+<div class="skill">Excel / Access / VBA </div>
+<div class="skill">PowerBI </div>
+<div class="skill">Javascript </div>
+<div class="skill">D3.js </div>
+<div class="skill">CSS</div>
+<div class="skill">ArcGIS </div>
+<div class="skill">QGIS  </div>
+</div>
 
 
 ## Education
