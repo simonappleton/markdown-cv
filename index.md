@@ -17,7 +17,7 @@ I'm looking for a new challenge to combine my passions for sustainability, data 
 
 ## Experience
 
-### Arcadis Gen - Data and Decision Science
+### Arcadis - Data Science & Analytics
 **Senior Data Scientist**
 
 *Apr 2022 - Present*
