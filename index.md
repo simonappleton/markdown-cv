@@ -5,7 +5,7 @@ title: Simon Appleton CV
 # Simon Appleton
 Data Scientist
 
-## Update the gh_pages branch
+## Update the gh-pages branch
 
 ## then goto:
 
