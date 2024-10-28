@@ -13,7 +13,6 @@ Data Scientist
 ## Profile
 
 An experienced data scientist who is proficient in R, Python, SQL and GitHub. I have used these skills to apply statistical and machine learning techniques to solve problems across environmental, health and technology industries. 
-I'm looking for a new challenge to combine my passions for sustainability, data science & GIS.
 
 ## Experience
 
