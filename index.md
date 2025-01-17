@@ -20,15 +20,12 @@ An experienced data scientist who is proficient in R, Python, SQL and GitHub. I 
 **Senior Data Scientist**
 
 *Apr 2022 - Present*
- - Lead analyst on a project to use ground movement data gathered from ESA Sentinel 1 satelites (InSAR) to predict failuers in linear assets. This involved geospatially combining multiple datasets, implementing various machine learning techniques to understand what type of ground movements were most predictive of asset failure and then comparing them to choose the most effective methodology.
- - Lead developer on an MILP optimisation live tool for scheduling maintenance works for a national infrastructure company. Built as an Azure function in Python using Google OR-Tools.
- - Lead developer on 2 data manipulation apps alongside the optimisation tool built using R Shiny. They include manipulation of GIS data components using Leaflet visualisation package and the R sf (simple features) package. The apps use data from a PostgreSQL DB.
- - Working as part of a cross functional team I also lead a team of 2 other developers on the project.
- - Prototyped an R Shiny app to explore and visualize the results of an optimisation process that allowed users to define branching paths of investment priorities into the long term future. Creating novel user interface elements that simplify an intricate concept.
- - Maintained and added features to a tool that used Facebook's Prophet package to forecast stock levels from multiple warehouse sites, statistically testing the output and communicating how the tool worked to key stakeholders.
- - Contributed to an internal optimisation package allowing it to use Gurobi's feasibility relaxation feature and enabled users to easily specify penalties to do this.
- - All above pieces of work were source controlled in GitHub.
- - Line manager and coaching responsibility for 3 junior members of staff within the team.
+- Lead programmer on a mixed integer linear program to optimise the scheduling of maintenance work, work crews and safe access to sites built as an Azure function in python using Google OR tools.
+- Lead analyst on a project to use satellite interferometry data measuring ground movement to predict bursts in water pipes.
+- Built R Shiny apps to manage data, present novel visualisations simplifying complex ideas and allow users an easy way to configure modelling systems. Apps were hosted in Azure, managed by kubernetes.
+- Validated and maintained a tool to predict warehouse stock levels using Facebook's prophet tool in R and Shiny.
+- Projects were mainly ran in an Agile manner and I used Git / GitHub to source control all code and manage releases.
+- Line manage 3 team members and lead other colleagues in my technical lead role on many projects.
 
 ### Johnson Matthey - Battery Materials
 **Senior Data Scientist**
