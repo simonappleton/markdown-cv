@@ -45,6 +45,9 @@ An experienced data scientist who is proficient in R, Python, SQL and GitHub. I 
  - Drove improvements in the tools and workflow of the health department's data science team, bringing in new methodologies and commissioning an analysis server.
  - Worked with the internal development team using Agile methodology to deliver web based interactive data analysis in PowerBI.
 
+
+
+
 ### University of York
 **Data Analyst, Epidemiology and Cancer Statistics Group**
 
